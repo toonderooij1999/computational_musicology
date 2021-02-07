@@ -4,8 +4,9 @@ As a third year AI bachelor student I already encountered two courses about musi
 
 #### My corpus
 I would like to find out how music across genres changed over time. For example, how did rock evolve over the years? I think that I will start using one or two corpora for example rock and pop.
-
-##### Challenges
+###### Motivation
+I listen to music a lot (not very special), but I found that I listen to old music more often than the average person of my age. 
+###### Challenges
 Finding corpora which are good representations of their age will be the biggest challenge, because music differs a lot between artists. A lot of thought should go in to the definition and representation of each <em>musical era</em>. Other challenges will become clearer as my knowledge on this subject increases.
 
 #### Spotify API
