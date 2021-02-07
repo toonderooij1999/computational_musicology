@@ -1,2 +1,2 @@
-# computational_musicology
+## Computational Musicology
 Test 
