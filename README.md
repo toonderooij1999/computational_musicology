@@ -12,4 +12,5 @@ Finding corpora which are good representations of their age will be the biggest 
 #### Spotify API
 I have already used python musical modules like <em>Essentia</em> and I really enjoyed the technical part of music, so I am looking forward using the <em>Spotify API</em>.
 
-# This is added in Rstudio
+#### Go to my visualisations:
+https://toonderooij1999.github.io/computational_musicology/index.nb.html
