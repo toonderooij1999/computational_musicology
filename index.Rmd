@@ -9,6 +9,19 @@ output:
 I'm probably going to do something with the Beach Boys
 
 ```{r}
-plot(cars)
+library(tidyverse)
+library(spotifyr)
+bb <- get_artist_audio_features('the beach boys')
+good_vibrations <- 
+  bb %>% 
+    filter(track_id=='6aU6a9tdn2vHhnPGlboFZX')
+
 ```
 
+
+
+```{r}
+ggplot(bb,aes(x=energy,y=valence)) +
+  geom_point()
+
+```
