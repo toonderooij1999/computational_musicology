@@ -5,7 +5,7 @@ output:
     vertical_layout: fill
 ---
 
-# Intro
+# Introduction
 ### Welcome to my page!!!
 #### Why I chose this course
 As a third year AI bachelor student I already encountered two courses about music and the role of AI or atleast computers in interpreting music. For my 'tweedejaarsproject' I worked with a dataset of the Eurovision Song Festival. When I was younger, music (in physics) was my least favourite subject, but the more I learned about it, the more I came to love it.
@@ -19,7 +19,7 @@ I listen to music a lot (not very special), but I found that I listen to old mus
 #### Spotify API
 I have already used python musical modules like <em>Essentia</em> and I really enjoyed the technical part of music, so I am looking forward using the <em>Spotify API</em>.
 
-# Graphs
+# Visualisation
 ```{r}
 library(tidyverse)
 library(spotifyr)
@@ -37,3 +37,5 @@ ggplot(bb,aes(x=energy,y=valence)) +
   geom_point()
 
 ```
+
+# Discussion
